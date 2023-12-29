@@ -1,2 +1,5 @@
 # git-at-speed
-advanced git
+git advances
+- [ ] git rebase -i (drop, reword, squash, fixup, edit)
+- [ ] git worktree
+- [ ] git bisect
