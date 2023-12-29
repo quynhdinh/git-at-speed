@@ -1,2 +1,2 @@
 # git-at-speed
-advanced git
+git advances
